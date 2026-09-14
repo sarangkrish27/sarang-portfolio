@@ -1,0 +1,23 @@
+# Add a certificate by adding an entry below.
+#
+# Fields:
+#   id         - unique slug
+#   title      - course/certificate name
+#   issuer     - who issued it
+#   credential - e.g. "Gold Certificate", "Elite + Gold"
+#   score      - e.g. "90%"
+#   date       - "YYYY"
+#   link       - verification URL, leave "" if none
+
+- id: nptel-discrete-math
+  title: "Discrete Mathematics"
+  issuer: "NPTEL"
+  score: "90%"
+  date: "2026"
+  link: "https://nptel.ac.in/noc/E_Certificate/NOC26CS68S15820000404277926"
+
+- id: udmy-bootcamp
+  title: "The Complete 2024 Web Development Bootcamp"
+  issuer: "Udemy"
+  date: "2024"
+  link: "https://www.udemy.com/certificate/UC-8a46bdd8-7585-42e6-a008-143db77e6efe/"
