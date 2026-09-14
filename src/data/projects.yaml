@@ -16,7 +16,7 @@
 - id: summitbase
   title: "SummitBase"
   description: "A full-stack trekking management platform with role-based dashboards for admins, staff, and trekkers, background job processing, and an ML-based trek recommendation pipeline. Repo link will update soon"
-  image: "public/images/summitbase-screenshot.png"
+  image: "/images/summitbase-screenshot.png"
   # repo: "https://github.com/sarang/summitbase"
   demo: ""
   tags: ["Flask", "Vue.js", "Redis", "Celery", "SQLite"]
@@ -27,7 +27,7 @@
 - id: placement-portal
   title: "Placement Portal"
   description: "A server-rendered campus recruitment portal built for coursework, handling student and recruiter workflows end to end."
-  image: "public/images/ppa-screenshot.png"
+  image: "/images/ppa-screenshot.png"
   repo: "https://github.com/sarangkrish27/placement-portal-application-mad1"
   demo: ""
   tags: ["Flask", "Jinja2", "Bootstrap", "SQLite"]
