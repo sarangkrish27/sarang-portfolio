@@ -33,7 +33,7 @@ onMounted(() => {
 
       <p class="hero__tagline">Building full-stack tools with a data &amp; ML lean.</p>
 
-     <a href="mailto:sarang@gmail.com" class="btn">
+     <a href="mailto:sarangkrish27@gmail.com" class="btn">
   <svg class="btn__icon" viewBox="0 0 16 16" fill="currentColor" shape-rendering="crispEdges">
     <path d="M1 3h14v10H1V3zm1 1v1l6 4 6-4V4H2zm12 2.5-6 4-6-4V12h12V6.5z"/>
   </svg>
