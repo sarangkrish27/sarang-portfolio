@@ -27,7 +27,7 @@
 - id: email-spam-classifier
   title: "Email Spam Classifier"
   description: "A machine learning model that classifies emails as spam or not spam, trained on a Kaggle dataset using TF-IDF and Logistic Regression, tuned with GridSearchCV, and deployed as an interactive Streamlit app."
-  image: "/images/summitbase-screenshot.png"
+  image: "/images/spam-email-check-screenshot.png"
   repo: "https://github.com/sarangkrish27/email-spam-checker"
   demo: "https://email-spam-or-not.streamlit.app/"
   tags:
