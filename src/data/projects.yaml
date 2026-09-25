@@ -24,6 +24,22 @@
   status: "completed"
   date: "2026-08"
 
+- id: email-spam-classifier
+  title: "Email Spam Classifier"
+  description: "A machine learning model that classifies emails as spam or not spam, trained on a Kaggle dataset using TF-IDF and Logistic Regression, tuned with GridSearchCV, and deployed as an interactive Streamlit app."
+  image: "/images/summitbase-screenshot.png"
+  repo: "https://github.com/sarangkrish27/email-spam-checker"
+  demo: "https://email-spam-or-not.streamlit.app/"
+  tags:
+    - Python
+    - scikit-learn
+    - pandas
+    - Streamlit
+    - NLP
+  featured: false
+  status: completed
+  date: "2026-09"
+
 - id: placement-portal
   title: "Placement Portal"
   description: "A server-rendered campus recruitment portal built for coursework, handling student and recruiter workflows end to end."
@@ -31,6 +47,6 @@
   repo: "https://github.com/sarangkrish27/placement-portal-application-mad1"
   demo: ""
   tags: ["Flask", "Jinja2", "Bootstrap", "SQLite"]
-  featured: true
+  featured: false
   status: "completed"
   date: "2026-03"
