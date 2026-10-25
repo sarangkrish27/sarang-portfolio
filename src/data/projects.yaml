@@ -50,3 +50,16 @@
   featured: false
   status: "completed"
   date: "2026-03"
+
+- id: dueline
+  title: "Dueline"
+  description: "While taking Tools in Data Science this term, I saw my peers struggling to keep track of assignment and project deadlines, which are split into phases and spread across different pages. I built a simple tracker that lists every deadline in date order, down to individual questions, so nobody has to dig through pages to find what is due next."
+  image: "/images/dueline-screenshot.png"
+  repo: "https://github.com/sarangkrish27/dueline"
+  demo: "https://dueline-tds.vercel.app/"
+  tags:
+    - Vue.js
+    - Vercel
+  featured: true
+  status: completed
+  date: "2026-10"
