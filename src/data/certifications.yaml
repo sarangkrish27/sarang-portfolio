@@ -9,6 +9,13 @@
 #   date       - "YYYY"
 #   link       - verification URL, leave "" if none
 
+- id: nptel-scd
+  title: "Software Conceptual Design"
+  issuer: "NPTEL"
+  score: "91%"
+  date: "2026"
+  link: "https://beta.nptel.ac.in/verify/NOC-196K-XM7H-0V93F"
+
 - id: nptel-discrete-math
   title: "Discrete Mathematics"
   issuer: "NPTEL"
