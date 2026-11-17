@@ -1,0 +1,1 @@
+{"rewrites":[{"source":"/((?!assets/|images/|banners/|favicon.svg|sarang-hero.png).*)","destination":"/index.html"}]}

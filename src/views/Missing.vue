@@ -1,0 +1,1 @@
+<template><section class="shell missing"><p class="eyebrow">404 / PAGE NOT FOUND</p><h1>WRONG TURN.<br><span>FRESH START.</span></h1><p>This page doesn’t exist, or the article may have moved.</p><RouterLink class="button" to="/">BACK TO HOME ↗</RouterLink></section></template>
